@@ -3,7 +3,7 @@
 /**
  * Copy data with right click
  * ===================================
- * @author Adil YILDIZ, https://github.com/derStephan/AdminerPlugins
+ * @author Adil YILDIZ, https://github.com/adilyildiz/AdminerCopy
  * @license MIT
  *
  */
