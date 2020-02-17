@@ -8,10 +8,10 @@ Copy data with right click
 Download AdminerCopy.php file to plugins folder in your server. Then paste below code to top of adminer.php file.
 
 Example folder construction:
-adminer.php
-plugins/
---plugin.php
---AdminerCopy.php
+- adminer.php
+- plugins/
+  - plugin.php
+  - AdminerCopy.php
 
 ```php
 function adminer_object() {
